@@ -1,0 +1,6 @@
+{
+  "name": "TokoMate POS & Retail Engine",
+  "description": "Aplikasi Kasir & Manajemen Toko Kelontong Modern untuk UMKM Indonesia dengan POS kasir cepat, pencatatan stok, dan laporan keuangan real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
